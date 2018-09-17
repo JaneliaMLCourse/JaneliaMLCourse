@@ -1,0 +1,2 @@
+#!/bin/bash
+jupyter nbconvert Lecture_1.ipynb --to slides --post serve
