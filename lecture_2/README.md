@@ -2,12 +2,15 @@
 
 ## Exercises and milestones for lab 2
 
-### Intro Python and programming
+### Using sklearn and statsmodels to train linear models
 1. Have Anaconda (conda) installed
-2. Make sure scikit.learn is installed
-3. Install statsmodels
+2. Make sure scikit-learn is installed:
+	`pip install scikit-learn`
+   as well as scipy:
+   	`pip install scipy`
+3. Install the statsmodels package:
 	`pip install statsmodels`
-4. Open and run the Lecture_2.ipynb notebook
+4. Open and run the NeuralMLHints.ipynb notebook
 
 ### Exercises
 1. Decode hand position from neural activity using a linear decoder
