@@ -3,6 +3,7 @@
 ## Resources
 
 * [Machine learning glossary of terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
+* [Machine learning basics book chapter](https://www.deeplearningbook.org/contents/ml.html)
 
 ### Programming and python
 * [Getting started with git](https://guides.github.com/introduction/git-handbook/)
