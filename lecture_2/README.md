@@ -5,8 +5,8 @@
 ### Intro Python and programming
 1. Have Anaconda (conda) installed
 2. Make sure scikit.learn is installed
-3. Install pyglmnet
-	`pip install pyglmnet`
+3. Install statsmodels
+	`pip install statsmodels`
 4. Open and run the Lecture_2.ipynb notebook
 
 ### Exercises
