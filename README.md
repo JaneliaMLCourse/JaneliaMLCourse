@@ -5,6 +5,8 @@
 ### Programming and python
 * [Getting started with git](https://guides.github.com/introduction/git-handbook/)
 * [Jupyter notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)
+* [Python tutorial](https://docs.python.org/3/tutorial/)
+* [Numpy tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)
 * Visualizing python snippets: http://pythontutor.com/visualize.html
 
 ### Background math
