@@ -17,7 +17,7 @@
 -----------
 ### [Exercises](https://render.githubusercontent.com/view/ipynb?commit=f7a3c3697ce77ad4bc1f24e7c9a9464abfaa58d4&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f4a616e656c69614d4c436f757273652f4a616e656c69614d4c436f757273652f663761336333363937636537376164346263316632346537633961393436346162666161353864342f6c6563747572655f342f4c6563747572655f345f70726163746963616c2e6970796e62&nwo=JaneliaMLCourse%2FJaneliaMLCourse&path=lecture_4%2FLecture_4_practical.ipynb&repository_id=149160074&repository_type=Repository)
   - Install scikit-image:
-     - `conda install scikit-iamge`, or
+     - `conda install scikit-image`, or
      - `conda install -c conda-forge scikit-image`
     
 #### Theoretical
