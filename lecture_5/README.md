@@ -7,7 +7,7 @@
 * independent component analysis
 * nonlinear methods
     * t-SNE
-    * UMAP
+    * UMAP 
     
 ## Resources
 
@@ -20,5 +20,13 @@
 * t-SNE [website](https://lvdmaaten.github.io/tsne/) which has a link to the paper and many examples
 
 * UMAP has a nice wiki [here](https://umap-learn.readthedocs.io/en/latest/)
+
+## Packages for tutorial
+
+* numpy
+* scipy
+* scikit-learn
+* [UMAP](https://umap-learn.readthedocs.io/en/latest/)
+* t-SNE's [multi-core implementation](https://github.com/DmitryUlyanov/Multicore-TSNE) that's faster (but optional, original is in scikit-learn) 
 
 
