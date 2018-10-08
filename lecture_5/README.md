@@ -3,7 +3,7 @@
 * principal component analysis
     * derivation and low-dimensional reconstructions
     * PCA = SVD
-    * non-negative matrix factorization
+* non-negative matrix factorization
 * independent component analysis
 * nonlinear methods
     * t-SNE
