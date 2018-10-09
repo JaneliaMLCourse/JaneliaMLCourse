@@ -18,8 +18,10 @@
 * one of many ICA tutorials [link](https://research.ics.aalto.fi/ica/icademo/)
 
 * t-SNE [website](https://lvdmaaten.github.io/tsne/) which has a link to the paper and many examples
+    * youtube [lecture](https://www.youtube.com/watch?v=RJVL80Gg3lA)
 
 * UMAP has a nice wiki [here](https://umap-learn.readthedocs.io/en/latest/)
+    * youtube [lecture](https://www.youtube.com/watch?v=nq6iPZVUxZU)
 
 ## Packages for tutorial
 
